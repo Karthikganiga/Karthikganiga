@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Karthikganiga
 - 👀 I’m interested in circuit design, programming languages 
 - 🌱 I’m currently learning Engineering 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with programmers ...
 - 📫 u can reach me here is my contact number 
 7795709455
 
